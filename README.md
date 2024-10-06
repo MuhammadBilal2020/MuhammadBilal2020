@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on BackEnd<br>🌱 I’m currently learning BackEnd<br>💬 Ask me about Html | Css | Js | Ts<br>⚡ Fun fact I Think I'am Funny
+🔭 I’m currently working on Student Mangement System<br>🌱 I’m currently learning Next js <br>💬 Ask me about Html | Css | Js | Ts<br>⚡ Fun fact I Think I'am Funny
 
 
 ## 🌐 Socials:
